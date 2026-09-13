@@ -1,0 +1,1 @@
+[![.github/workflows/main.yml](https://github.com/sousaluismiguelalmeidadesouza-alt/plplplplp/actions/workflows/main.yml/badge.svg)](https://github.com/sousaluismiguelalmeidadesouza-alt/plplplplp/actions/workflows/main.yml)
